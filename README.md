@@ -1,5 +1,4 @@
 Hi, I'm just a guy who you probably know either from class, school, or my project: ClassKicker.\
-I’m interested in Data Science and Analytics. To say ***"Data is interesting"*** would be a massive understatement.\
 I’m currently learning C# for some GUI applications (I've been doing this for like 2 months now), and GLSL for personal hobby usage.\
 God, GLSL has way too much math involved...\
 I’m a `one-man team`, and I find collaborating in code a bit difficult, but I can make it work if I really need to!\
