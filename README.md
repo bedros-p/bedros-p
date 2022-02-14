@@ -7,12 +7,13 @@ I barely check my email, for faster communication, here's my Discord : shrekman#
 
 ## Languages I know quite well:
 -Python\
--C#\
+-C++
 -JS
+-Powershell is defined as an object oriented language
 
 ## I partially know these languages:
 Java\
-C++ (Original Classkicker GUI was made with C++)\
+C#\
 GLSL (Not a programming language, its a shading language)
 
 
