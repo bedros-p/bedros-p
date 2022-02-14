@@ -9,7 +9,7 @@ I barely check my email, for faster communication, here's my Discord : shrekman#
 -Python\
 -C++\
 -JS\
--Powershell is defined as an object oriented language, so that counts\
+-Powershell is defined as an object oriented language, so that counts
 
 ## I partially know these languages:
 Java\
