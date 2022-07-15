@@ -10,7 +10,6 @@ I barely check my email, for faster communication, here's my Discord : shrekman#
 -C
 
 ## I partially know these languages:
-Java\
 C#\
 Powershell\
 GLSL (Not a programming language, its a shading language)
