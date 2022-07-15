@@ -7,11 +7,12 @@ I barely check my email, for faster communication, here's my Discord : shrekman#
 -Python\
 -C++\
 -JS\
--Powershell is defined as an object oriented language, so that counts
+-C
 
 ## I partially know these languages:
 Java\
 C#\
+Powershell\
 GLSL (Not a programming language, its a shading language)
 
 
