@@ -7,11 +7,13 @@ I barely check my email, for faster communication, here's my Discord : shrekman#
 -Python\
 -C++\
 -JS\
--C
+-C\
+-C#
 
 ## I partially know these languages:
-C#\
-Powershell\
-GLSL (Not a programming language, its a shading language)
+-Powershell\
+-GLSL (Not a programming language, its a shading language)
 
+## Currently learning:
+-Java
 > yes guys i know powershell 😎
