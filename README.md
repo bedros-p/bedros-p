@@ -4,17 +4,17 @@ You can contact me at my email `pastrikk00@gmail.com`!\
 I barely check my email, for faster communication, here's my Discord : shrekman#5545
 
 ## Languages I know quite well:
-- Python\
-- C++\
-- JS\
-- C\
+- Python
+- C++
+- JS
+- C
 - C#
 
 ## Currently learning:
 - Java
 
 ## I partially know these languages:
-- Powershell\
+- Powershell
 - GLSL (Not a programming language, its a shading language)
 
 > yes guys i know powershell 😎
