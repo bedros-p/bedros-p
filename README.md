@@ -7,14 +7,14 @@ I barely check my email, for faster communication, here's my Discord : shrekman#
 - Python
 - C++
 - JS
-- C
+- Java
 - C#
 
-## Currently learning:
+## Currently learning / Mainly doing:
 - Java
 
 ## I partially know these languages:
-- Powershell
+- C
 - GLSL (Not a programming language, its a shading language)
 
 > yes guys i know powershell 😎
