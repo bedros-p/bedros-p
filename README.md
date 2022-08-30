@@ -15,6 +15,10 @@ I barely check my email, for faster communication, here's my Discord : shrekman#
 
 ## I partially know these languages:
 - C
-- GLSL (Not a programming language, its a shading language)
+
+## List of languages I do that aren't programming
+- SQL
+- HTML/CSS
+
 
 > yes guys i know powershell 😎
