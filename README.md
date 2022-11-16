@@ -11,7 +11,7 @@ I barely check my email, for faster communication, here's my Discord : shrekman#
 - C#
 
 ## Currently learning / Mainly doing:
-- Java
+- JS - Firebase
 
 ## I partially know these languages:
 - C
