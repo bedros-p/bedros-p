@@ -1,21 +1,21 @@
 Hi, I'm just a guy who you probably know either from class, school, or from one of my endless projects :+1:.\
 
 You can contact me at my email `pastrikk00@gmail.com`!\
-For faster communication, here's my Discord : `Loquareeous#5545`
+For faster communication, here's my Discord : `bedros_p`
 
 ## Languages I know quite well, in order of preference:
 - TS - Started Apr 2023
 - JS - Started August 2021
-- Java - Started April 2022, but only theory back then - really learnt it from March 2023 and onwards
 - Py - Started Oct 2018 - Not a constant development thing, but I did learn a lot in my time with Python (I haven't used it in a while though)
-- 
+- Java - Started April 2022, but only theory back then - really learnt it from March 2023 and onwards
+-  
 - C# - I would not prefer using this at all
 
 Keep in mind preference is just preference - as a student, learner and developer, I adapt to new environments and regularly leave my comfort zone with new technologies.
 
 ## Currently learning / Mainly doing:
+- **TS - React & Next**
 - **JS - Firebase**
-- **TS - React**
 - **Java - Spring Framework & Google Cloud**
 - Kubernetes & Docker
 
