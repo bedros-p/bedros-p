@@ -15,7 +15,7 @@ Reverse engineering & bug bounties - [Google VRP Profile](https://bughunters.goo
 
 
 ## I have done...
-I dig things up @ https://x.com/bedros_p\
+I dig things up @ https://x.com/bedros_p \
 Writing @ https://medium.com/@bedros-p (sometimes)
 
 Okk... Thax!
